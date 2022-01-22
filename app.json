@@ -13,19 +13,19 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "2058036885:AAFLgJAm75RHhQmfeKCPNF7L7_sOud6F3dg"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "7380017"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "73c849be5acefae375b38614d7385f77"
     },
     "TRACK_CHANNEL": {
       "description": "Create new private/public channel and get it's id, startswith -100",
-      "value": ""
+      "value": "-1001352724229"
     },
     "OWNER_ID": {
       "description": "If all: will working for all users (storing files) or fill with your telegram id so that only you can store the files.",
